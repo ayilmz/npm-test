@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ayilmz/npm-test-9825/issues"
   },
-  "homepage": "https://github.com/ayilmz/npm-test-9825#readme"
+  "homepage": "https://github.com/ayilmz/npm-test-9825#readme",
+  "dependencies": {
+    "auto": "^10.37.6"
+  }
 }
