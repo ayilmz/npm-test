@@ -1,5 +1,5 @@
 {
-  "name": "npm-test",
+  "name": "npm-test-9825",
   "version": "1.0.0",
   "description": "publish npm",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayilmz/npm-test.git"
+    "url": "git+https://github.com/ayilmz/npm-test-9825.git"
   },
   "author": "Ahmet Yilmaz ahmet@flashtr.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ayilmz/npm-test/issues"
+    "url": "https://github.com/ayilmz/npm-test-9825/issues"
   },
-  "homepage": "https://github.com/ayilmz/npm-test#readme"
+  "homepage": "https://github.com/ayilmz/npm-test-9825#readme"
 }
