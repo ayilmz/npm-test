@@ -1,6 +1,6 @@
 {
   "name": "npm-test-9825",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "publish npm",
   "main": "index.js",
   "scripts": {
