@@ -20,9 +20,6 @@
   "dependencies": {
     "auto": "^10.37.6"
   },
-  "workspaces": [
-    "packages/*"
-  ],
   "devDependencies": {
     "lerna": "^6.1.0"
   }
